@@ -1,0 +1,23 @@
+{
+  "name": "esm-playground",
+  "version": "1.0.0",
+  "description": "ESM experiments",
+  "type":"module",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/esm-playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/esm-playground/issues"
+  },
+  "homepage": "https://github.com/drom/esm-playground#readme",
+  "dependencies": {
+    "onml": "^2.1.0"
+  }
+}
